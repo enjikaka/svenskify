@@ -1,7 +1,7 @@
 {
   "name": "svenskify",
   "version": "1.0.2",
-  "description": "Make Swedish from the 1920s modern",
+  "description": "Takes a text of 1920 style Swedish and modernises it a bit.",
   "main": "index.js",
   "scripts": {
     "test": "node test"
@@ -10,6 +10,10 @@
     "swedish",
     "svenska"
   ],
+  "repository": {
+    "type": "git",
+		"url": "https://github.com/enjikaka/svenskify.git"
+  },
   "author": "Jeremy Karlsson <karlsson@jeremy.se>",
   "license": "UNLICENCED",
   "dependencies": {
