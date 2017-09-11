@@ -1,6 +1,6 @@
 {
   "name": "svenskify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Takes a text of 1920 style Swedish and modernises it a bit.",
   "main": "index.js",
   "scripts": {
